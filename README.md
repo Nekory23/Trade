@@ -1,5 +1,5 @@
 # Trade
-{EPITECH} | Second year | Functionnal programming
+{EPITECH} | Second year | Computer numerical analysis
 
 Trading bots are able to compute thousands of orders per second (this is called High Frequency Trading) which in return, of course, modifies the very nature of markets.
 
